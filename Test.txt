@@ -1,3 +1,8 @@
 Hello World
 Readyto secind commit
+<<<<<<< HEAD
 working on featurebranch ------------------
+=======
+working on featurebranch
+Commit from new developer
+>>>>>>> 8742c2695e14d7393eee2301a8e7ed9d16f60b14
